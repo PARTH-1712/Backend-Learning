@@ -1,5 +1,23 @@
-# Backend Learning Series
+# VidTube - A central hub for videos, indicating a broad variety of content.
 
-This is a learning playlist on backend with javascript
-- [Model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbllORGtiUjZvRm9ZSUNYZzk1a2xTME52VXA5UXxBQ3Jtc0ttQm91ZDQ3TWFqUWxlTml2NkZrdDJUSmY0ZWFUM0d1UXVEcjlQNWJ1dEZEY0d3TGhRVkhpY3NjaGtyMFlGek1McHdlSVhNMjZjYVpvTnBiX0lEZTJtNUxDT0VKVzJ6ME9YM21RN1Y1YzN1b2pwYU5RTQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
+This is a learning playlist on the backend with javascript
+- [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+
+---
+# Summary of this Project (In the Building Phase)
+This project is a complex backend application built with Node.js, Express.js, MongoDB, Mongoose, JWT, Bcrypt, and more. It is a complete backend solution that includes all the essential features typically required in a backend project.
+
+We are building a video hosting platform similar to YouTube, with key features such as:
+
+- User login and sign-up
+- Video upload functionality
+- Like/Dislike videos
+- Comment and reply to videos
+- Subscribe/Unsubscribe to channels, and more.
+
+Still building...
+
+The project follows standard best practices, including using JWT, and Bcrypt for secure authentication, access tokens, refresh tokens, and more.
+
+---
 
